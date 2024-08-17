@@ -1,0 +1,405 @@
+{
+  "projectData": [
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    },
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    },
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    },
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    },
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    },
+    {
+      "tittle": "How to make Flyer Design",
+      "text": "Lorem ipsum dolor sit amet, consec adipiscing elit awd and lorem ipsum...",
+      "tools": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDb"
+      ]
+    }
+  ],
+  "Recommendations": [
+    {
+      "id": "1",
+      "image": "/assets/images/rating.png",
+      "heading": "Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "pic": "/assets/images/profile.png",
+      "name": "James Gouse",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "2",
+      "image": "/assets/images/rating.png",
+      "heading": "Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "pic": "/assets/images/profile.png",
+      "name": "James Gouse",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "3",
+      "image": "/assets/images/rating.png",
+      "heading": "Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "pic": "/assets/images/profile.png",
+      "name": "James Gouse",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "4",
+      "image": "/assets/images/rating.png",
+      "heading": "Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "pic": "/assets/images/profile.png",
+      "name": "James Gouse",
+      "profession": "Graphic Designer"
+    },
+    {
+      "id": "5",
+      "image": "/assets/images/rating.png",
+      "heading": "Quality!",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi. Morbi donec amet....",
+      "pic": "/assets/images/profile.png",
+      "name": "James Gouse",
+      "profession": "Graphic Designer"
+    }
+  ],
+  "Skillspage": [
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "heading": "Front End Development",
+      "skills": [
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        },
+        {
+          "title": "HTML",
+          "progress": "80"
+        }
+      ]
+    },
+    {
+      "id": "2c7c",
+      "heading": "Gangadhar",
+      "skills": [
+        {
+          "title": "a",
+          "progress": "10"
+        },
+        {
+          "title": "b",
+          "progress": "20"
+        },
+        {
+          "title": "c",
+          "progress": "30"
+        },
+        {
+          "title": "d",
+          "progress": "40"
+        },
+        {
+          "title": "e",
+          "progress": "50"
+        }
+      ]
+    },
+    {
+      "id": "0bce",
+      "heading": "Pichi",
+      "skills": [
+        {
+          "title": "mental",
+          "progress": "10"
+        },
+        {
+          "title": "crack",
+          "progress": "20"
+        },
+        {
+          "title": "metal",
+          "progress": "30"
+        },
+        {
+          "title": "creack",
+          "progress": "40"
+        },
+        {
+          "title": "nemate",
+          "progress": "50"
+        }
+      ]
+    },
+    {
+      "id": "8b40",
+      "heading": "Alekhya",
+      "skills": [
+        {
+          "title": "mental",
+          "progress": "90"
+        },
+        {
+          "title": "crack",
+          "progress": "80"
+        },
+        {
+          "title": "pichi",
+          "progress": "70"
+        },
+        {
+          "title": "mind",
+          "progress": "0"
+        },
+        {
+          "title": "tingari",
+          "progress": "100"
+        }
+      ]
+    },
+    {
+      "id": "cdc2",
+      "heading": "mahee",
+      "skills": [
+        {
+          "title": "mental",
+          "progress": "100"
+        },
+        {
+          "title": "pichi",
+          "progress": "100"
+        },
+        {
+          "title": "tingari",
+          "progress": "90"
+        },
+        {
+          "title": "kopam",
+          "progress": "100"
+        },
+        {
+          "title": "aatram",
+          "progress": "70"
+        }
+      ]
+    },
+    {
+      "id": "b087",
+      "heading": "Ayyappa",
+      "skills": [
+        {
+          "title": "PICHI",
+          "progress": "100"
+        },
+        {
+          "title": "PSYCHO",
+          "progress": "100"
+        },
+        {
+          "title": "METAL",
+          "progress": "100"
+        },
+        {
+          "title": "none",
+          "progress": ""
+        },
+        {
+          "title": "none",
+          "progress": ""
+        }
+      ]
+    }
+  ]
+}
